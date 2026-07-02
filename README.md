@@ -165,7 +165,7 @@ This work is currently under review. If you find it useful, please cite:
 
 ```bibtex
 @article{wang2026energyserve,
-  title   = {EnergyServe: Energy-Efficient LLM Inference Serving via Workload
+  title   = {EnergyServe: Energy-Efficient Inference Serving via Workload
              Reshaping for LLMs},
   author  = {Wang, Zhuopeng and Xu, Minxian and Wang, Yan and Ye, Kejiang and
              Liu, Zhenkun and Buyya, Rajkumar},
