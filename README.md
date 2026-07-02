@@ -1,6 +1,6 @@
 # EnergyServe
 
-### Energy-Efficient LLM Inference Serving via Workload Reshaping for LLMs
+### Energy-Efficient Inference Serving via Workload Reshaping for LLMs
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
