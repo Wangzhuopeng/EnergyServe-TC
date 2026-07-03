@@ -1,6 +1,6 @@
 # EnergyServe
 
-### Energy-Efficient Inference Serving via Workload Reshaping for LLMs
+### EnergyServe: Mitigating Prefill-Decode Phase Interference for Energy-Efficient LLM Inference Serving
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
@@ -165,8 +165,7 @@ This work is currently under review. If you find it useful, please cite:
 
 ```bibtex
 @article{wang2026energyserve,
-  title   = {EnergyServe: Energy-Efficient Inference Serving via Workload
-             Reshaping for LLMs},
+  title   = {EnergyServe: Mitigating Prefill-Decode Phase Interference for Energy-Efficient LLM Inference Serving},
   author  = {Wang, Zhuopeng and Xu, Minxian and Wang, Yan and Ye, Kejiang and
              Liu, Zhenkun and Buyya, Rajkumar},
   journal = {IEEE Transactions on Computers (under review)},
